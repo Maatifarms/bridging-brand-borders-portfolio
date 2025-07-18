@@ -73,16 +73,10 @@ const ContactSection = () => {
 
   const socialLinks = [
     {
-      icon: Instagram,
-      label: "Instagram",
-      value: "@researcher_in_the_woods",
-      url: "https://instagram.com/researcher_in_the_woods"
-    },
-    {
       icon: Linkedin,
       label: "LinkedIn",
       value: "Connect with me",
-      url: "#"
+      url: "https://www.linkedin.com/in/researcher-in-the-woods"
     }
   ];
 

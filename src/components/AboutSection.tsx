@@ -2,7 +2,7 @@ import React from 'react';
 import { Card, CardContent } from './ui/card';
 import { Badge } from './ui/badge';
 import { Award, Building, Target } from 'lucide-react';
-import portraitImage from '../assets/shriyanshi-portrait.jpg';
+const portraitImage = '/lovable-uploads/09524815-7e53-4b4d-ab1e-914df42e6643.png';
 
 const AboutSection = () => {
   const credentials = [
